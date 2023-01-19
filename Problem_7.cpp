@@ -30,6 +30,9 @@ int main()
     Output: true
     Explanation: 121 reads as 121 from left to right and from right to left.
 
+    Status - UnSubmitted
+
+
     */
     int n;
     cin >> n;

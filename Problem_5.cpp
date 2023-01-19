@@ -42,6 +42,10 @@ int main()
     LCM of 5 and 10 is 10, while
     thier GCD is 5.
 
+
+    Status - UnSubmitted
+
+
     */
     long long int n1 , n2;
     cin >> n1 >> n2;

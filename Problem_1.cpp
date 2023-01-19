@@ -34,6 +34,8 @@ int main()
     Explanation:
     1, 2 both divide 12 evenly
 
+    Status - Submitted
+
     */
     int n;
     cin >> n;

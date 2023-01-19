@@ -25,6 +25,9 @@ int main()
     Input: x = 123
     Output: 321
 
+    Status - UnSubmitted
+
+
     */
     int n;
     cin >> n;

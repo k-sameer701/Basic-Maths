@@ -34,6 +34,9 @@ int main()
     Input: n = 55555
     Output: Yes
 
+    Status - Submitted
+
+
     */
     int n;
     cin >> n;

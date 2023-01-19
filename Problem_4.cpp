@@ -38,6 +38,9 @@ int main()
         = 1 + 3 + 4 + 7
         = 15
 
+    Status - UnSubmitted
+
+
     */
     int n;
     cin >> n;
