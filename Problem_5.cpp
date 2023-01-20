@@ -43,7 +43,7 @@ int main()
     thier GCD is 5.
 
 
-    Status - UnSubmitted
+    Status - Submitted
 
 
     */

@@ -2,19 +2,22 @@
 using namespace std;
 
 long long sumOfDivisors(int n)
+{
+    // Write Your Code here
+    int sum = 0;
+    while (n > 0)
     {
-        // Write Your Code here
-        int sum = 0;
-        while(n>0){
-            for(int i=1; i<=n; i++){
-                if(n%i == 0){
-                    sum = sum + i;
-                }
+        for (int i = 1; i <= n; i++)
+        {
+            if (n % i == 0)
+            {
+                sum = sum + i;
             }
-            n--;
         }
-        return sum;
+        n--;
     }
+    return sum;
+}
 
 int main()
 {
